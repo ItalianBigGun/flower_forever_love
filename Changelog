@@ -1,0 +1,8 @@
+/*
+*	Create by lzc
+*/
+20210513:
+	1. Add a global button event Ctrl + ESC to end the process.
+	2. Add the function of setting software parameters. Not perfect.
+	3. Add font color change function. Not perfect.
+	

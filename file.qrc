@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>download-complete.wav</file>
+        <file>setlight.png</file>
+    </qresource>
+</RCC>

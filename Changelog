@@ -5,4 +5,8 @@
 	1. Add a global button event Ctrl + ESC to end the process.
 	2. Add the function of setting software parameters. Not perfect.
 	3. Add font color change function. Not perfect.
+
+20210516:
+	1. Modify a global button event Ctrl + Space to end the process.
+	2. Perfect font color change function.
 	
